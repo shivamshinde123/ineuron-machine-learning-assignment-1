@@ -50,6 +50,8 @@ class Prediction:
 
             st.markdown("**Note that the prediction may be way of the actual price since the prediction made using linear regression which is one of the simplest machine learning algorithms.**")
 
+            st.markdown("**Checkout the source code at https://github.com/shivamshinde123/ineuron-machine-learning-assignment-1**")
+
 
 if __name__ == '__main__':
 
